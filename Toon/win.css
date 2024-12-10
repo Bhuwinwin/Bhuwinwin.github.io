@@ -59,6 +59,18 @@ header .btnsk:hover{
 }
 
 
+header .btnhome{
+  background-color: rgb(254, 255, 218);
+  border: solid 0px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+header .btnhome:hover{
+  background-color: rgb(191, 124, 0);
+  transition: background-color 0.5s ease;
+}
+
 
 #content-academic h1{
     padding-left: 30px;
